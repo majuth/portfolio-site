@@ -1,0 +1,148 @@
+.navbarButtons{
+    border-bottom: 5px solid #c158dc;
+    text-align: center;
+    width:100%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    transition: font-size, 0.3s;
+    transition: border-bottom, 0.3s;
+    transition: background-color, 0.3s;
+    min-height: 10vh;
+}
+
+.navbarButtons:hover{
+    font-size: 120%;
+    border-bottom: 8px solid #d963f7;
+    background-color: rgba(255,255,255,0.03);
+    transition: font-size, 0.3s;
+    transition: border-bottom, 0.3s;
+    transition: background-color, 0.3s;
+    transition-timing-function: ease-out;
+}
+
+#wholeNavBar{
+    padding:0px;
+}
+
+.navBarAddPadding{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#ulPart{
+    width:100%
+}
+
+#nameNavBar{
+    border: none;
+    color: rgba(255,255,255,0.5);
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+}
+
+#toggleButton{
+    border:none;
+}
+
+body{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+}
+
+#home{
+    color:white;
+}
+
+#footer{
+    width: 100%;
+    background-color:#343a40;
+    color: rgba(255,255,255,0.5);
+    text-align: center;
+    font-weight: 600;
+    padding: 10px;
+}
+
+.logos{
+    width: 30px;
+}
+
+.logoMargin{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#copyright{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+#pageContent{
+
+    background-color: #455a64;
+    min-height: 90vh;
+}
+
+#profilePic{
+    height: 40vh;
+}
+
+#homePage{
+    text-align: center;
+    color: white;
+}
+
+.contentCard{
+    background-color: #66757f;
+    max-width: 70vw;
+    padding: 10px;
+    border-bottom: 5px solid #c158dc;
+    //box-shadow: 0 1px 8px rgba(0, 0, 0, 0.12), 0 1px 6px rgba(0, 0, 0, 0.24);
+    //box-shadow: 0 1px 8px rgba(193, 88, 220, 0.22), 0 1px 6px rgba(193, 88, 220, 0.34);
+}
+
+.aboutMe{
+    color:white;
+    margin: 0;
+    padding: 0;
+}
+
+.aboutMeRow{
+    margin: 0;
+    padding: 0;
+}
+
+.aboutMeContentCard{
+    max-width: 85vw;
+    margin: auto;
+}
+
+.projectContainer{
+    color: white;
+}
+
+.githubButton{
+    background-color: rgba(255,255,255,0.05);
+    width: 156px;
+    padding: 10px;
+    padding-right: 7px;
+    transition: background-color, 0.3s;
+}
+
+.githubButton:hover{
+    background-color: rgba(255,255,255,0.09);
+    transition: background-color, 0.3s;
+    transition-timing-function: ease-out;
+}
+
+.githubLink{
+    color: rgba(255,255,255,.5);
+}
+
+.githubLink:hover{
+    color: white;
+    text-decoration: none;
+}
