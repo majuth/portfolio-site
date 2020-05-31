@@ -36,7 +36,7 @@ class PersonalProjects extends React.Component {
                 <div class="card-header" id="headingTwo">
                   <h5 class="mb-0">
                     <button class="btn btn-link collapsed" style={{color: "white", fontWeight: "600"}} data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                      More personal projects coming soon
+                      More personal projects coming
                     </button>
                   </h5>
                 </div>

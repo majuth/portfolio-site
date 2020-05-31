@@ -14,7 +14,7 @@ class Home extends React.Component {
             <br></br>
             <h2>Majuth Kirakalaprathapan</h2>
             <h3>Ryerson Univeristy - Computer Science</h3>
-            <h5>mkirakalaprathapan@ryerson.ca</h5>
+            <h6>mkirakalaprathapan@ryerson.ca</h6>
             </div>
             <br></br>
         </div>
