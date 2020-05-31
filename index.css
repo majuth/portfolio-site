@@ -87,7 +87,7 @@ body{
 }
 
 #profilePic{
-    height: 40vh;
+    max-width: 36vh;
 }
 
 #homePage{
@@ -97,7 +97,7 @@ body{
 
 .contentCard{
     background-color: #66757f;
-    max-width: 70vw;
+    max-width: 85vw;
     padding: 10px;
     border-bottom: 5px solid #c158dc;
     //box-shadow: 0 1px 8px rgba(0, 0, 0, 0.12), 0 1px 6px rgba(0, 0, 0, 0.24);
