@@ -21,7 +21,7 @@ class PersonalProjects extends React.Component {
                   <div class="card-body">
                     <span style={{fontWeight: "600"}}> Uses:</span> React, Bootstrap, HTML, CSS, and Javascript
                     <br></br>
-                    <span style={{fontWeight: "600"}}>Description:</span> Mobile friendly portfolio web page to demonstrate some of my skills and to provide an easier way to look at my work and past experiences. It's the site you currently on :)
+                    <span style={{fontWeight: "600"}}>Description:</span> Mobile friendly portfolio web page to demonstrate some of my skills and to provide an easier way to look at my work and past experiences. It's the site you're currently on :)
                     <br></br>
                     <br></br>
                     <img src={portfolioSite} class="mx-auto d-block" style={{width: "100%"}}></img>

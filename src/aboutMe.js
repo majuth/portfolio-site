@@ -51,7 +51,7 @@ class AboutMe extends React.Component {
                   </div>
                   <br></br>
                   <div class="contentCard aboutMeContentCard">
-                    <h4 style={{textAlign: "center"}}>Proffesional Experience</h4>
+                    <h4 style={{textAlign: "center"}}>Professional Experience</h4>
                     <div class="mx-auto d-block" style={{maxWidth: "400px"}}>
                       <p><b>McDonald's: Crew Member      </b>
                       <br></br>May 2016 to Aug. 2019 
@@ -94,7 +94,7 @@ class AboutMe extends React.Component {
                       <ul>
                         <li>	Assertively monitored outside activities with minimal supervision and instruction   </li>
                         <li>	Create client-targeted documents to effectively serve around 1000 clients•	Effectively performed administrative duties in the office consisting of spreadsheets, event planning and tracking assets  </li>
-                        <li>  •	Received “Certificate of Appreciation” for efficiently assisting the program for over 3 years</li>
+                        <li>  Received “Certificate of Appreciation” for efficiently assisting the program for over 3 years</li>
                       </ul></p>
                     </div>
                   </div>
