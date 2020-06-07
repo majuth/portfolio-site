@@ -53,6 +53,15 @@ class AboutMe extends React.Component {
                   <div class="contentCard aboutMeContentCard">
                     <h4 style={{textAlign: "center"}}>Professional Experience</h4>
                     <div class="mx-auto d-block" style={{maxWidth: "400px"}}>
+                      <p><b>Ryerson Computing and Communication Services: G-Suite Support Assistant     </b>
+                      <br></br>June 2020 to Aug. 2020
+                      <br></br>Toronto, ON
+                      <ul>
+                        <li>	Create Google Suite API scripts to add additional functionality to existing Google Suite Applications  </li>
+                        <li>	Collaborate on creation of Google Suite based workflows to best utilize cloud computing  </li>
+                      </ul></p>
+
+                      <br></br>
                       <p><b>McDonald's: Crew Member      </b>
                       <br></br>May 2016 to Aug. 2019 
                       <br></br>Vaughan, ON
