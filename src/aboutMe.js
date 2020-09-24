@@ -26,9 +26,10 @@ class AboutMe extends React.Component {
                   <div class="contentCard aboutMeContentCard">
                   <h4 style={{textAlign: "center"}}>Skills</h4>
                   <div class="mx-auto d-block" style={{maxWidth: "300px"}}>
-                    <p><b>Languages</b> Java, Python, Unix/Shell, HTML, Javascript, CSS, C, C++, Perl, PHP, Ruby, MySQL, XML, Smalltalk, Elixir, Haskell, and Rust</p>
+                    <p><b>Languages</b> Java, Python, Unix/Shell, HTML, Javascript, CSS, C, C++, Git, SQL, Perl, PHP, Ruby, XML, Smalltalk, Elixir, Haskell, and Rust</p>
+                    <p><b>Frameworks</b> React, Bootstrap</p>
                     <p><b>Operating Systems </b> Windows (XP, Vista, 7, 8, 10), Ubuntu, Android, iOS</p>
-                    <p><b>Applications </b> MS Office Suite, Photoshop, VS Code, Eclipse</p>
+                    <p><b>Applications </b> MS Office Suite, Photoshop, VS Code, Eclipse, Git Bash, Jupyter Notebook, Putty</p>
                   </div>
                   </div>
                 </div>
@@ -44,8 +45,8 @@ class AboutMe extends React.Component {
                       <br></br>Ryerson University | Sep. 2018 to June 2023
                       <br></br>Toronto, ON
                       <ul>
-                        <li>	CGPA: 3.64 </li>
-                        <li>	Awarded Deans list for first year </li>
+                        <li>	CGPA: 3.70 </li>
+                        <li>	Awarded Deans list for first and second year </li>
                       </ul></p>
                     </div>
                   </div>
@@ -53,12 +54,24 @@ class AboutMe extends React.Component {
                   <div class="contentCard aboutMeContentCard">
                     <h4 style={{textAlign: "center"}}>Professional Experience</h4>
                     <div class="mx-auto d-block" style={{maxWidth: "400px"}}>
+                      <p><b>Ontario Ministry of Government and Consumer Services: Systems Officer</b>
+                      <br></br>Sep. 2020 to Dec. 2020
+                      <br></br>Toronto, ON
+                      <ul>
+                        <li>	Automate processes and procedures to assist management to make business decisions  </li>
+                        <li>  Maintain software to access data from databases and generate reports  </li>
+                      </ul></p>
+
+                      <br></br>
+
+
                       <p><b>Ryerson Computing and Communication Services: G-Suite Support Assistant     </b>
                       <br></br>June 2020 to Aug. 2020
                       <br></br>Toronto, ON
                       <ul>
-                        <li>	Create Google Suite API scripts to add additional functionality to existing Google Suite Applications  </li>
-                        <li>	Collaborate on creation of Google Suite based workflows to best utilize cloud computing  </li>
+                        <li>	Created Google Suite API scripts to add additional functionality to existing Google Suite Applications  </li>
+                        <li>	Collaborated on creation of Google Suite based workflows to best utilize cloud computing  </li>
+                        <li>  Developed Web Pages for Ryerson’s Google Suite support pages using Adobe AEM  </li>
                       </ul></p>
 
                       <br></br>
@@ -84,19 +97,36 @@ class AboutMe extends React.Component {
                   </div>
                   <br></br>
                   <div class="contentCard aboutMeContentCard">
-                    <h4 style={{textAlign: "center"}}>Volunteer & Community Involvement</h4>
+                    <h4 style={{textAlign: "center"}}>Student Leadership & Campus Involvement</h4>
                     <div class="mx-auto d-block" style={{maxWidth: "400px"}}>
+                      <p><b>Ryerson Developer Student Club: Finance Executive</b>
+                      <br></br>Aprl 2020 to Present
+                      <br></br>Toronto, ON
+                      <ul>
+                        <li>	Prepare financial plans for supporting the club’s financial needs   </li>
+                        <li>  Assist in the planning of learning opportunities for student developers   </li>
+                      </ul></p>
+
+                      <br></br>
+
                       <p><b>Ryerson Computer Science Course Union (CSCU): </b>
                       <br></br><b>3rd Year Rep | May 2020 to Present</b>
+                      <ul>
+                        <li>  Communicate with 3rd year Computer Science students to bring forth changes they wish to see </li>
+                        <li> Assist in the creation of online educational events for students </li>
+                      </ul>
                       <br></br>2nd Year Deputy | May 2019 to April 2020
                       <br></br>Toronto, ON
                       <ul>
                         <li>	Enthusiastically assist in preparation and conduction of CSCU events  </li>
                         <li>	Communicate with members to find solutions to problems faced by Ryerson’s 2nd year Computer Science students  </li>
                       </ul></p>
-
-                      <br></br>
-
+                    </div>
+                  </div>
+                  <br></br>
+                  <div class="contentCard aboutMeContentCard">
+                    <h4 style={{textAlign: "center"}}>Volunteer & Community Involvement</h4>
+                    <div class="mx-auto d-block" style={{maxWidth: "400px"}}>
                       <p><b>International Languages Program Volunteer</b>
                       <br></br>Oct. 2011 to Jun. 2018
                       <br></br>Vaughan, ON
