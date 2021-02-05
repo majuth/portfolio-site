@@ -27,7 +27,7 @@ class AboutMe extends React.Component {
                   <h4 style={{textAlign: "center"}}>Skills</h4>
                   <div class="mx-auto d-block" style={{maxWidth: "300px"}}>
                     <p><b>Languages</b> Java, Python, Unix/Shell, HTML, Javascript, CSS, C, C++, Git, SQL, Perl, PHP, Ruby, XML, Smalltalk, Elixir, Haskell, and Rust</p>
-                    <p><b>Frameworks</b> React, Bootstrap</p>
+                    <p><b>Frameworks</b> React, Angular, Bootstrap</p>
                     <p><b>Operating Systems </b> Windows (XP, Vista, 7, 8, 10), Ubuntu, Android, iOS</p>
                     <p><b>Applications </b> MS Office Suite, Photoshop, VS Code, Eclipse, Git Bash, Jupyter Notebook, Putty</p>
                   </div>
