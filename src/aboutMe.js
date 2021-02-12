@@ -58,8 +58,8 @@ class AboutMe extends React.Component {
                       <br></br>Sep. 2020 to Dec. 2020
                       <br></br>Toronto, ON
                       <ul>
-                        <li>	Automate processes and procedures to assist management to make business decisions  </li>
-                        <li>  Maintain software to access data from databases and generate reports  </li>
+                        <li>	Automated processes and procedures to assist management to make business decisions  </li>
+                        <li>  Maintained software to access data from databases and generate reports  </li>
                       </ul></p>
 
                       <br></br>
