@@ -26,10 +26,10 @@ class AboutMe extends React.Component {
                   <div class="contentCard aboutMeContentCard">
                   <h4 style={{textAlign: "center"}}>Skills</h4>
                   <div class="mx-auto d-block" style={{maxWidth: "300px"}}>
-                    <p><b>Languages</b> Java, Python, Unix/Shell, HTML, Javascript, CSS, C, C++, Git, SQL, Perl, PHP, Ruby, XML, Smalltalk, Elixir, Haskell, and Rust</p>
+                    <p><b>Languages</b> Java, Python, Unix/Shell, HTML, Javascript, CSS, C, C++, Git, SQL, Perl, PHP, Ruby, JSON, XML, Smalltalk, Elixir, Haskell, and Rust</p>
                     <p><b>Frameworks</b> React, Angular, Bootstrap</p>
                     <p><b>Operating Systems </b> Windows (XP, Vista, 7, 8, 10), Ubuntu, Android, iOS</p>
-                    <p><b>Applications </b> MS Office Suite, Photoshop, VS Code, Eclipse, Git Bash, Jupyter Notebook, Putty</p>
+                    <p><b>Applications </b> MS Office Suite, Google Suite, Photoshop, VS Code, Eclipse, Git Bash, Jupyter Notebook, Putty</p>
                   </div>
                   </div>
                 </div>
@@ -58,8 +58,9 @@ class AboutMe extends React.Component {
                       <br></br>Sep. 2020 to Dec. 2020
                       <br></br>Toronto, ON
                       <ul>
-                        <li>	Automated processes and procedures to assist management to make business decisions  </li>
-                        <li>  Maintained software to access data from databases and generate reports  </li>
+                        <li>	Consolidated various forms of data in 50+ spreadsheets for coversion into advanced statistics in Microsoft Power Bi  </li>
+                        <li>  Maintained Powershell scripts to generate reports from databases  </li>
+                        <li>  Collaborated in daily standup meetings as part of an agile work flow  </li>
                       </ul></p>
 
                       <br></br>
@@ -69,9 +70,10 @@ class AboutMe extends React.Component {
                       <br></br>June 2020 to Aug. 2020
                       <br></br>Toronto, ON
                       <ul>
-                        <li>	Created Google Suite API scripts to add additional functionality to existing Google Suite Applications  </li>
+                        <li>	Created Javascript based Google Suite API scripts to add additional functionality to existing Google Suite Applications  </li>
                         <li>	Collaborated on creation of Google Suite based workflows to best utilize cloud computing  </li>
-                        <li>  Developed Web Pages for Ryerson’s Google Suite support pages using Adobe AEM  </li>
+                        <li>  Developed dozens of Web Pages for Ryerson’s Google Suite support pages using Adobe AEM  </li>
+                        <li>  Demonstrated basic project management skills to effectively delive results within deadlines  </li>
                       </ul></p>
 
                       <br></br>
@@ -85,12 +87,12 @@ class AboutMe extends React.Component {
 
                       <br></br>
 
-                      <p><b>Highschool Co-op Student (City of Vaughan – OCIO Department)</b>
+                      <p><b>Highschool IT Co-op Student (City of Vaughan – OCIO Department)</b>
                       <br></br>Sept. 2016 to Jan. 2017
                       <br></br>Vaughan, ON
                       <ul>
                         <li>	Assist client support workers with setting up workstations, phone systems and mobile devices  </li>
-                        <li>	Create client-targeted documents to effectively serve around 1000 clients  </li>
+                        <li>	Create client-targeted documents to effectively serve 1000+ clients  </li>
                         <li>  Organize various hardware using spreadsheets and product codes to be easily accessible</li>
                       </ul></p>
                     </div>
@@ -113,7 +115,7 @@ class AboutMe extends React.Component {
                       <br></br><b>3rd Year Rep | May 2020 to Present</b>
                       <ul>
                         <li>  Communicate with 3rd year Computer Science students to bring forth changes they wish to see </li>
-                        <li> Assist in the creation of online educational events for students </li>
+                        <li>  Assist in the creation of online educational events for students </li>
                       </ul>
                       <br></br>2nd Year Deputy | May 2019 to April 2020
                       <br></br>Toronto, ON
