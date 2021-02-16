@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7e90493e87240b30d530fb040456f72c",
+    "revision": "a1529fbe4b229e535c103e6ac050fe29",
     "url": "/index.html"
   },
   {
-    "revision": "36c8e5b0c950d7a896a6",
-    "url": "/static/js/2.574b54e1.chunk.js"
+    "revision": "36929ba6c080137ca96d",
+    "url": "/static/js/2.05fbec8a.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/static/js/2.574b54e1.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.05fbec8a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f864cebebac69a89436",
-    "url": "/static/js/main.097e7843.chunk.js"
+    "revision": "e0ac0fa05b4dafbfac8b",
+    "url": "/static/js/main.9cdebb89.chunk.js"
   },
   {
     "revision": "47dff7f7d2288501507d",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3d74c862e03e631805862a8b600d12d8",
     "url": "/static/media/MrPotatoHeadgame.3d74c862.png"
+  },
+  {
+    "revision": "70cdb6bc4e95dcb5441385d71611885b",
+    "url": "/static/media/basketballStatsSite.70cdb6bc.png"
   },
   {
     "revision": "b67c51e46d99dc4cd49c9488fdb7e8f0",
