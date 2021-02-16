@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDom from 'react-dom';
 import portfolioSite from './portfolioSite.png';
+import basketballStatsSite from './basketballStatsSite.png';
 
 class PersonalProjects extends React.Component {
     render() {
@@ -8,16 +9,40 @@ class PersonalProjects extends React.Component {
         <div>
             <br></br>
             <div id="accordion" style={{maxWidth: "80vw", margin: "auto"}}>
+            <div class="card contentCard projectContainer" style={{borderRadius: "0", backgroundColor: "#66757f", maxWidth: "80vw", padding: "0"}}>
+                <div class="card-header" id="headingZero">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link" style={{color: "white", fontWeight: "600"}} data-toggle="collapse" data-target="#collapseZero" aria-expanded="true" aria-controls="collapseZero">
+                      Basketball Stats Site
+                    </button>
+                  </h5>
+                </div>
+
+                <div id="collapseZero" class="collapse show" aria-labelledby="headingZero" data-parent="#accordion">
+                  <div class="card-body">
+                    <span style={{fontWeight: "600"}}> Uses:</span> Angular, HTML, Javascript, CSS, REST APIs, and Bootstrap
+                    <br></br>
+                    <span style={{fontWeight: "600"}}>Description:</span> Basketball Stats Site is a demo stats site that shows up to date NBA player and team statistics in an easy to use format. 
+                    <br></br>
+                    <br></br>
+                    <img src={basketballStatsSite} class="mx-auto d-block" style={{width: "100%"}}></img>
+                    <br></br>
+                    <div style={{backgroundColor: "#343a40", width: "156px", margin: "auto"}}>
+                    <a class="githubLink" href="https://github.com/majuthkira/basketball-stats-site"><div class="githubButton">View on Github <img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="github" style={{width:"19px", paddingLeft: "4px"}}></img></div></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <div class="card contentCard projectContainer" style={{borderRadius: "0", backgroundColor: "#66757f", maxWidth: "80vw", padding: "0"}}>
                 <div class="card-header" id="headingOne">
                   <h5 class="mb-0">
-                    <button class="btn btn-link" style={{color: "white", fontWeight: "600"}} data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                    <button class="btn btn-link collapsed" style={{color: "white", fontWeight: "600"}} data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
                       Personal Portfolio Webpage
                     </button>
                   </h5>
                 </div>
 
-                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                   <div class="card-body">
                     <span style={{fontWeight: "600"}}> Uses:</span> React, Bootstrap, HTML, CSS, and Javascript
                     <br></br>
