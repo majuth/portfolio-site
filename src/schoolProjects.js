@@ -5,6 +5,7 @@ import javascriptGamestore from './javascriptGamestore.png';
 import htmlCheckers from './htmlCheckers.png';
 import mrPotatoHeadGame from './MrPotatoHeadgame.png';
 import javaTextBasedGame from './textBasedJavagame.png';
+import slackBot from './slackBot.png';
 
 class SchoolProjects extends React.Component {
     render() {
@@ -12,6 +13,30 @@ class SchoolProjects extends React.Component {
         <div>
             <br></br>
             <div id="accordion" style={{maxWidth: "80vw", margin: "auto"}}>
+            <div class="card contentCard projectContainer" style={{borderRadius: "0", backgroundColor: "#66757f", maxWidth: "80vw", padding: "0"}}>
+                <div class="card-header" id="headingTwo">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link" style={{color: "white", fontWeight: "600"}} data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                      Slack Bot
+                    </button>
+                  </h5>
+                </div>
+
+                <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordion">
+                  <div class="card-body">
+                    <span style={{fontWeight: "600"}}> Uses:</span> Python, Flask, Rest APIs
+                    <br></br>
+                    <span style={{fontWeight: "600"}}>Description:</span> This is a simple slack bot that can repeat questions and tell the weather.
+                    <br></br>
+                    <br></br>
+                    <img src={slackBot} class="mx-auto d-block" style={{width: "100%"}}></img>
+                    <br></br>
+                    <div style={{backgroundColor: "#343a40", width: "156px", margin: "auto"}}>
+                    <a class="githubLink" href="https://github.com/CPS847-group42/slackbot-group42"><div class="githubButton">View on Github <img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="github" style={{width:"19px", paddingLeft: "4px"}}></img></div></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <div class="card contentCard projectContainer" style={{borderRadius: "0", backgroundColor: "#66757f", maxWidth: "80vw", padding: "0"}}>
                 <div class="card-header" id="headingOne">
                   <h5 class="mb-0">
@@ -21,7 +46,7 @@ class SchoolProjects extends React.Component {
                   </h5>
                 </div>
 
-                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                   <div class="card-body">
                     <span style={{fontWeight: "600"}}> Uses:</span> HTML, CSS, and Javascript
                     <br></br>
