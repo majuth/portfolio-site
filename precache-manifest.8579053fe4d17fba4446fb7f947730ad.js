@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "829bbe06c45c0411c42be8c8b4748543",
+    "revision": "735a8cd5ddf9995af5b474b30b2329d1",
     "url": "/index.html"
   },
   {
-    "revision": "e90c43875093db42b888",
-    "url": "/static/js/2.4fd7ef66.chunk.js"
+    "revision": "a706c1ff6ef456e12382",
+    "url": "/static/js/2.6556a21e.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/static/js/2.4fd7ef66.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.6556a21e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8be75b1b8206f28cebb4",
-    "url": "/static/js/main.ff2815f5.chunk.js"
+    "revision": "a51dba60da06c44264bc",
+    "url": "/static/js/main.88fa7dd8.chunk.js"
   },
   {
     "revision": "47dff7f7d2288501507d",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f92f768c04df5382e72a7173cde88073",
     "url": "/static/media/portfolioSite.f92f768c.png"
+  },
+  {
+    "revision": "56ccbff6be6282b20c817a0f1fa4ed9f",
+    "url": "/static/media/slackBot.56ccbff6.png"
   },
   {
     "revision": "d31a90e181f776914142cd904de46a28",
