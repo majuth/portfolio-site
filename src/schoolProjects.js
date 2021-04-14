@@ -14,15 +14,15 @@ class SchoolProjects extends React.Component {
             <br></br>
             <div id="accordion" style={{maxWidth: "80vw", margin: "auto"}}>
             <div class="card contentCard projectContainer" style={{borderRadius: "0", backgroundColor: "#66757f", maxWidth: "80vw", padding: "0"}}>
-                <div class="card-header" id="headingTwo">
+                <div class="card-header" id="headingSix">
                   <h5 class="mb-0">
-                    <button class="btn btn-link" style={{color: "white", fontWeight: "600"}} data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                    <button class="btn btn-link" style={{color: "white", fontWeight: "600"}} data-toggle="collapse" data-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
                       Slack Bot
                     </button>
                   </h5>
                 </div>
 
-                <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordion">
+                <div id="collapseSix" class="collapse show" aria-labelledby="headingSix" data-parent="#accordion">
                   <div class="card-body">
                     <span style={{fontWeight: "600"}}> Uses:</span> Python, Flask, Rest APIs
                     <br></br>
