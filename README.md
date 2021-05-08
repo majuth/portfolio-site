@@ -4,7 +4,7 @@ Created using React, Bootstrap, CSS, and Github Pages.
 
 ### How to view the website
 
-The site can be viewed live at [www.majuth.com](www.majuth.com).
+The site can be viewed live at [www.majuth.com](https://www.majuth.com).
 
 To view locally NPM and GIT is required.
 1. Git clone this repository to your local machine
