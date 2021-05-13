@@ -3,6 +3,7 @@ import ReactDom from 'react-dom';
 import portfolioSite from './portfolioSite.png';
 import basketballStatsSite from './basketballStatsSite.png';
 import imageRepository from './imageRepository.png';
+import ruprint from'./ruprint.png';
 
 class PersonalProjects extends React.Component {
     render() {
@@ -54,6 +55,30 @@ class PersonalProjects extends React.Component {
                     <br></br>
                     <div style={{backgroundColor: "#343a40", width: "156px", margin: "auto"}}>
                     <a class="githubLink" href="https://github.com/majuthkira/image-repository"><div class="githubButton">View on Github <img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="github" style={{width:"19px", paddingLeft: "4px"}}></img></div></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="card contentCard projectContainer" style={{borderRadius: "0", backgroundColor: "#66757f", maxWidth: "80vw", padding: "0"}}>
+                <div class="card-header" id="headingOnePointFive">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link collapsed" style={{color: "white", fontWeight: "600"}} data-toggle="collapse" data-target="#collapseOnePointFive" aria-expanded="false" aria-controls="collapseOnePointFive">
+                      Course Selection Site
+                    </button>
+                  </h5>
+                </div>
+
+                <div id="collapseOnePointFive" class="collapse" aria-labelledby="headingOnePointFive" data-parent="#accordion">
+                  <div class="card-body">
+                    <span style={{fontWeight: "600"}}> Uses:</span> React, Firebase, Bootstrap, HTML, CSS, and Javascript
+                    <br></br>
+                    <span style={{fontWeight: "600"}}>Description:</span> A course selection prototype site for Ryerson Computer Science Students. Created as a submission for Ryerson's hackathon, RUHacks 2021!
+                    <br></br>
+                    <br></br>
+                    <img src={ruprint} class="mx-auto d-block" style={{width: "100%"}}></img>
+                    <br></br>
+                    <div style={{backgroundColor: "#343a40", width: "156px", margin: "auto"}}>
+                    <a class="githubLink" href="https://github.com/Ctrl-Alt-Defeat-RUHacks/RUPrint"><div class="githubButton">View on Github <img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="github" style={{width:"19px", paddingLeft: "4px"}}></img></div></a>
                     </div>
                   </div>
                 </div>
