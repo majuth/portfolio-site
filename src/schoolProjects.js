@@ -6,6 +6,7 @@ import htmlCheckers from './htmlCheckers.png';
 import mrPotatoHeadGame from './MrPotatoHeadgame.png';
 import javaTextBasedGame from './textBasedJavagame.png';
 import slackBot from './slackBot.png';
+import radioStation from './radioStation.png';
 
 class SchoolProjects extends React.Component {
     render() {
@@ -153,6 +154,30 @@ class SchoolProjects extends React.Component {
                     <br></br>
                     <div style={{backgroundColor: "#343a40", width: "156px", margin: "auto"}}>
                     <a class="githubLink" href="https://github.com/majuthkira/TextBasedJavaGame"><div class="githubButton">View on Github <img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="github" style={{width:"19px", paddingLeft: "4px"}}></img></div></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="card contentCard projectContainer" style={{borderRadius: "0", backgroundColor: "#66757f", maxWidth: "80vw", padding: "0"}}>
+                <div class="card-header" id="headingOne">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link" style={{color: "white", fontWeight: "600"}} data-toggle="collapse" data-target="#collapseSeven" aria-expanded="true" aria-controls="collapseOne">
+                      Radio Station Webpages
+                    </button>
+                  </h5>
+                </div>
+
+                <div id="collapseSeven" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                  <div class="card-body">
+                    <span style={{fontWeight: "600"}}> Uses:</span> XML, JSON, HTML, and CSS
+                    <br></br>
+                    <span style={{fontWeight: "600"}}>Description:</span> Radio Station webpages using live data from an internet station via xml and json.
+                    <br></br>
+                    <br></br>
+                    <img src={radioStation} class="mx-auto d-block" style={{width: "100%"}}></img>
+                    <br></br>
+                    <div style={{backgroundColor: "#343a40", width: "156px", margin: "auto"}}>
+                    <a class="githubLink" href="https://github.com/majuthkira/Radio-Station"><div class="githubButton">View on Github <img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="github" style={{width:"19px", paddingLeft: "4px"}}></img></div></a>
                     </div>
                   </div>
                 </div>
