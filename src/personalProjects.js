@@ -4,6 +4,7 @@ import portfolioSite from './portfolioSite.png';
 import basketballStatsSite from './basketballStatsSite.png';
 import imageRepository from './imageRepository.png';
 import ruprint from'./ruprint.png';
+import calculatorApp from './calculatorApp.png';
 
 class PersonalProjects extends React.Component {
     render() {
@@ -31,6 +32,30 @@ class PersonalProjects extends React.Component {
                     <br></br>
                     <div style={{backgroundColor: "#343a40", width: "156px", margin: "auto"}}>
                     <a class="githubLink" href="https://github.com/majuthkira/basketball-stats-site"><div class="githubButton">View on Github <img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="github" style={{width:"19px", paddingLeft: "4px"}}></img></div></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="card contentCard projectContainer" style={{borderRadius: "0", backgroundColor: "#66757f", maxWidth: "80vw", padding: "0"}}>
+                <div class="card-header" id="headingZeroPointFive">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link collapsed" style={{color: "white", fontWeight: "600"}} data-toggle="collapse" data-target="#collapseZeroPointFive" aria-expanded="false" aria-controls="collapseZeroPointFive">
+                      Calculator App (Android)
+                    </button>
+                  </h5>
+              </div>
+
+                <div id="collapseZeroPointFive" class="collapse" aria-labelledby="headingZeroPointFive" data-parent="#accordion">
+                  <div class="card-body">
+                    <span style={{fontWeight: "600"}}> Uses:</span> Kotlin and Java
+                    <br></br>
+                    <span style={{fontWeight: "600"}}>Description:</span> Simple calculator app that runs on Android platform and features abilities such as negative numbers, brackets, exponents, etc.
+                    <br></br>
+                    <br></br>
+                    <img src={calculatorApp} class="mx-auto d-block" style={{width: "100%"}}></img>
+                    <br></br>
+                    <div style={{backgroundColor: "#343a40", width: "156px", margin: "auto"}}>
+                    <a class="githubLink" href="https://github.com/majuthkira/image-repository"><div class="githubButton">View on Github <img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="github" style={{width:"19px", paddingLeft: "4px"}}></img></div></a>
                     </div>
                   </div>
                 </div>

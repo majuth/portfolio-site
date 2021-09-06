@@ -101,18 +101,16 @@ class AboutMe extends React.Component {
                   <div class="contentCard aboutMeContentCard">
                     <h4 style={{textAlign: "center"}}>Student Leadership & Campus Involvement</h4>
                     <div class="mx-auto d-block" style={{maxWidth: "400px"}}>
-                      <p><b>Ryerson Developer Student Club: Finance Executive</b>
-                      <br></br>Aprl 2020 to Present
-                      <br></br>Toronto, ON
-                      <ul>
-                        <li>	Prepare financial plans for supporting the club’s financial needs   </li>
-                        <li>  Assist in the planning of learning opportunities for student developers   </li>
-                      </ul></p>
-
-                      <br></br>
 
                       <p><b>Ryerson Computer Science Course Union (CSCU): </b>
-                      <br></br><b>3rd Year Rep | May 2020 to Present</b>
+                      <br></br><b>4th Year Rep | May 2021 to Present</b>
+                      <br></br>Toronto, ON
+                      <ul>
+                        <li>  Represent 4th year Computer Science students by curating events and bringing forth changes based on student input  </li>
+                        <li>  Participate in the creation of online social and edcational events for students </li>
+                      </ul>
+                      <br></br>3rd Year Rep | May 2020 to April 2021
+                      <br></br>Toronto, ON
                       <ul>
                         <li>  Communicate with 3rd year Computer Science students to bring forth changes they wish to see </li>
                         <li>  Assist in the creation of online educational events for students </li>
@@ -123,6 +121,17 @@ class AboutMe extends React.Component {
                         <li>	Enthusiastically assist in preparation and conduction of CSCU events  </li>
                         <li>	Communicate with members to find solutions to problems faced by Ryerson’s 2nd year Computer Science students  </li>
                       </ul></p>
+
+                      <br></br>
+
+                      <p><b>Ryerson Developer Student Club: Finance Executive</b>
+                      <br></br>April 2020 to April 2021
+                      <br></br>Toronto, ON
+                      <ul>
+                        <li>	Prepare financial plans for supporting the club’s financial needs   </li>
+                        <li>  Assist in the planning of learning opportunities for student developers   </li>
+                      </ul></p>
+
                     </div>
                   </div>
                   <br></br>
