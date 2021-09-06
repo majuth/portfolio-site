@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.1ec85b1c.chunk.js",
-    "main.js.map": "/static/js/main.1ec85b1c.chunk.js.map",
+    "main.js": "/static/js/main.33aa3bea.chunk.js",
+    "main.js.map": "/static/js/main.33aa3bea.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f5105409.js",
     "runtime-main.js.map": "/static/js/runtime-main.f5105409.js.map",
-    "static/js/2.48fe0a95.chunk.js": "/static/js/2.48fe0a95.chunk.js",
-    "static/js/2.48fe0a95.chunk.js.map": "/static/js/2.48fe0a95.chunk.js.map",
+    "static/js/2.0e6668e8.chunk.js": "/static/js/2.0e6668e8.chunk.js",
+    "static/js/2.0e6668e8.chunk.js.map": "/static/js/2.0e6668e8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.08d0ebb8c0c31ea6385a725e5009f918.js": "/precache-manifest.08d0ebb8c0c31ea6385a725e5009f918.js",
+    "precache-manifest.2ae9893210a05ce4067b4ffb8497859f.js": "/precache-manifest.2ae9893210a05ce4067b4ffb8497859f.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.48fe0a95.chunk.js.LICENSE.txt": "/static/js/2.48fe0a95.chunk.js.LICENSE.txt",
+    "static/js/2.0e6668e8.chunk.js.LICENSE.txt": "/static/js/2.0e6668e8.chunk.js.LICENSE.txt",
     "static/media/MrPotatoHeadgame.png": "/static/media/MrPotatoHeadgame.3d74c862.png",
     "static/media/basketballStatsSite.png": "/static/media/basketballStatsSite.70cdb6bc.png",
+    "static/media/calculatorApp.png": "/static/media/calculatorApp.ac7c94d1.png",
     "static/media/htmlCheckers.png": "/static/media/htmlCheckers.b67c51e4.png",
     "static/media/imageRepository.png": "/static/media/imageRepository.dd23c7f4.png",
     "static/media/javascriptGamestore.png": "/static/media/javascriptGamestore.24f8189a.png",
@@ -26,7 +27,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f5105409.js",
-    "static/js/2.48fe0a95.chunk.js",
-    "static/js/main.1ec85b1c.chunk.js"
+    "static/js/2.0e6668e8.chunk.js",
+    "static/js/main.33aa3bea.chunk.js"
   ]
 }
