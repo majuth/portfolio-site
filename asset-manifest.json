@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.33aa3bea.chunk.js",
-    "main.js.map": "/static/js/main.33aa3bea.chunk.js.map",
+    "main.js": "/static/js/main.1655e413.chunk.js",
+    "main.js.map": "/static/js/main.1655e413.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f5105409.js",
     "runtime-main.js.map": "/static/js/runtime-main.f5105409.js.map",
     "static/js/2.0e6668e8.chunk.js": "/static/js/2.0e6668e8.chunk.js",
     "static/js/2.0e6668e8.chunk.js.map": "/static/js/2.0e6668e8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2ae9893210a05ce4067b4ffb8497859f.js": "/precache-manifest.2ae9893210a05ce4067b4ffb8497859f.js",
+    "precache-manifest.59a34051322fdd4702767385da84665d.js": "/precache-manifest.59a34051322fdd4702767385da84665d.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.0e6668e8.chunk.js.LICENSE.txt": "/static/js/2.0e6668e8.chunk.js.LICENSE.txt",
     "static/media/MrPotatoHeadgame.png": "/static/media/MrPotatoHeadgame.3d74c862.png",
@@ -16,8 +16,8 @@
     "static/media/htmlCheckers.png": "/static/media/htmlCheckers.b67c51e4.png",
     "static/media/imageRepository.png": "/static/media/imageRepository.dd23c7f4.png",
     "static/media/javascriptGamestore.png": "/static/media/javascriptGamestore.24f8189a.png",
-    "static/media/majuth.jpg": "/static/media/majuth.c51195c7.jpg",
-    "static/media/majuth2.JPG": "/static/media/majuth2.191ccdfe.JPG",
+    "static/media/majuth3.png": "/static/media/majuth3.93cbf392.png",
+    "static/media/majuth4.png": "/static/media/majuth4.7fbdba79.png",
     "static/media/nikeMarketplace.png": "/static/media/nikeMarketplace.5ea7ef0f.png",
     "static/media/portfolioSite.png": "/static/media/portfolioSite.f92f768c.png",
     "static/media/radioStation.png": "/static/media/radioStation.784c7abd.png",
@@ -28,6 +28,6 @@
   "entrypoints": [
     "static/js/runtime-main.f5105409.js",
     "static/js/2.0e6668e8.chunk.js",
-    "static/js/main.33aa3bea.chunk.js"
+    "static/js/main.1655e413.chunk.js"
   ]
 }

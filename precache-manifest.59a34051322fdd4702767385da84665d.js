@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bbe502f61ad7175dcfec0fa4f4587def",
+    "revision": "94f14d2f41fe7bd156e22cc227a3dec2",
     "url": "/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.0e6668e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "346db783e98b423ca8d2",
-    "url": "/static/js/main.33aa3bea.chunk.js"
+    "revision": "16ffad418f6bbb8ac9f9",
+    "url": "/static/js/main.1655e413.chunk.js"
   },
   {
     "revision": "47dff7f7d2288501507d",
@@ -44,12 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/javascriptGamestore.24f8189a.png"
   },
   {
-    "revision": "c51195c78763be8c80270fd3c8fe1cdb",
-    "url": "/static/media/majuth.c51195c7.jpg"
+    "revision": "93cbf392e93c7dbe935c211e945e6c96",
+    "url": "/static/media/majuth3.93cbf392.png"
   },
   {
-    "revision": "191ccdfe640b4283bb07b088cf81c6c7",
-    "url": "/static/media/majuth2.191ccdfe.JPG"
+    "revision": "7fbdba794641769721045e7cc420b346",
+    "url": "/static/media/majuth4.7fbdba79.png"
   },
   {
     "revision": "5ea7ef0fc2fdbe41f04ce493484b466c",
