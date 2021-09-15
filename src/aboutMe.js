@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDom from 'react-dom';
-import majuth2 from './majuth2.JPG';
+import majuth4 from './majuth4.png';
 
 class AboutMe extends React.Component {
     render() {
@@ -14,7 +14,7 @@ class AboutMe extends React.Component {
                   <div class="contentCard aboutMeContentCard">
                   <h4 style={{textAlign: "center"}}>Majuth Kirakalaprathapan</h4>
                   <br></br>
-                  <img src={majuth2} class="mx-auto d-block" style={{width: "250px"}}></img>
+                  <img src={majuth4} class="mx-auto d-block" style={{width: "250px"}}></img>
                   <br></br>
                   <div class="mx-auto d-block" style={{maxWidth: "300px"}}>
                     <p>Email: mkirakalaprathapan@ryerson.ca</p>

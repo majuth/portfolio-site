@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDom from 'react-dom';
-import majuth from './majuth.jpg';
+import majuth3 from './majuth3.png';
 
 class Home extends React.Component {
     render() {
@@ -10,7 +10,7 @@ class Home extends React.Component {
             <div class="contentCard mx-auto">
             <h1>Personal Portfolio</h1>
             <br></br>
-            <img src={majuth} alt="majuth"  id="profilePic" class="mx-auto d-block"></img>
+            <img src={majuth3} alt="majuth"  id="profilePic" class="mx-auto d-block"></img>
             <br></br>
             <h2>Majuth Kirakalaprathapan</h2>
             <h3>Ryerson Univeristy - Computer Science</h3>
