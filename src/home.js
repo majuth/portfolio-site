@@ -13,8 +13,8 @@ class Home extends React.Component {
             <img src={majuth3} alt="majuth"  id="profilePic" class="mx-auto d-block"></img>
             <br></br>
             <h2>Majuth Kirakalaprathapan</h2>
-            <h3>Ryerson Univeristy - Computer Science</h3>
-            <h6>mkirakalaprathapan@ryerson.ca</h6>
+            <h3>Toronto Metropolitan Univeristy - Computer Science</h3>
+            <h6>mkirakalaprathapan@torontomu.ca</h6>
             </div>
             <br></br>
         </div>

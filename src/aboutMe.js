@@ -17,7 +17,7 @@ class AboutMe extends React.Component {
                   <img src={majuth4} class="mx-auto d-block" style={{width: "250px"}}></img>
                   <br></br>
                   <div class="mx-auto d-block" style={{maxWidth: "300px"}}>
-                    <p>Email: mkirakalaprathapan@ryerson.ca</p>
+                    <p>Email: mkirakalaprathapan@torontomu.ca</p>
                     <p>Age: {this.calculate_age()}</p>
                     <p>From: Vaughan, Ontario</p>
                   </div>
@@ -27,7 +27,7 @@ class AboutMe extends React.Component {
                   <h4 style={{textAlign: "center"}}>Skills</h4>
                   <div class="mx-auto d-block" style={{maxWidth: "300px"}}>
                     <p><b>Languages</b> Java, Python, Unix/Shell, HTML, Javascript, CSS, C, C++, Git, SQL, Perl, PHP, Ruby, JSON, XML, Smalltalk, Elixir, Haskell, and Rust</p>
-                    <p><b>Frameworks</b> React, Angular, Bootstrap</p>
+                    <p><b>Frameworks</b> React, Angular, Bootstrap, Node.js</p>
                     <p><b>Operating Systems </b> Windows (XP, Vista, 7, 8, 10), Ubuntu, Android, iOS</p>
                     <p><b>Applications </b> MS Office Suite, Google Suite, Photoshop, VS Code, Eclipse, Git Bash, Jupyter Notebook, Putty</p>
                   </div>
@@ -42,11 +42,12 @@ class AboutMe extends React.Component {
                     <h4 style={{textAlign: "center"}}>Education</h4>
                     <div class="mx-auto d-block" style={{maxWidth: "400px"}}>
                       <p><b>Bachelor of Science, Computer Science (Co-op) </b>
-                      <br></br>Ryerson University | Sep. 2018 to June 2023
+                      <br></br>Toronto Metropolitan University (Formerly Ryerson)
+                      <br></br>Sep. 2018 to June 2023
                       <br></br>Toronto, ON
                       <ul>
-                        <li>	CGPA: 3.70 </li>
-                        <li>	Awarded Deans list for first and second year </li>
+                        <li>	CGPA: 3.7 </li>
+                        <li>	Awarded Deans list for four years </li>
                       </ul></p>
                     </div>
                   </div>
@@ -54,6 +55,26 @@ class AboutMe extends React.Component {
                   <div class="contentCard aboutMeContentCard">
                     <h4 style={{textAlign: "center"}}>Professional Experience</h4>
                     <div class="mx-auto d-block" style={{maxWidth: "400px"}}>
+                    <p><b>TD Bank: Software Engineer</b>
+                      <br></br>May 2022 to Aug. 2022
+                      <br></br>Toronto, ON
+                      <ul>
+                        <li>	Developed new functionality for Banking Android App utilizing Kotlin, Java and Android Studio  </li>
+                        <li>  Collaborated with back end team to implement efficient REST APIs in Android Apps  </li>
+                        <li>  Implemented modern mobile user interfaces based on collaboration with designers using Figma  </li>
+                      </ul></p>
+
+                      <br></br>
+                    <p><b>Ontario Ministry of Government and Consumer Services: Software Developer</b>
+                      <br></br>Jan. 2022 to Apr. 2022
+                      <br></br>Toronto, ON
+                      <ul>
+                        <li>	Develop and manage website functionality, features and designs using React, HTML, and CSS  </li>
+                        <li>  Continually improve the navigation and usability of websites through front-end technologies  </li>
+                        <li>  Optimization of site speed and performance using back-end technologies  </li>
+                      </ul></p>
+
+                      <br></br>
                       <p><b>Ontario Ministry of Government and Consumer Services: Systems Officer</b>
                       <br></br>Sep. 2020 to Dec. 2020
                       <br></br>Toronto, ON
@@ -161,7 +182,7 @@ class AboutMe extends React.Component {
     var diff_ms = Date.now() - (new Date(2000, 12, 16)).getTime();
     var age_dt = new Date(diff_ms); 
   
-    return Math.abs(age_dt.getUTCFullYear() - 1970);
+    return Math.abs(age_dt.getUTCFullYear() - 1969);
   }
 }
   
