@@ -53,7 +53,7 @@ class MainPage extends React.Component{
 
             <div id="footer">
                 <a class="logoMargin" href="https://linkedin.com/in/majuth"><img src="https://pluspng.com/img-png/linkedin-icon-png--1600.png" alt="linkedin" class="logos"></img></a>
-                <a class="logoMargin" href="https://github.com/majuthkira"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" class="logos"></img></a>
+                <a class="logoMargin" href="https://github.com/majuth"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" class="logos"></img></a>
                 <p id="copyright">© Majuth Kirakalaprathapan</p>
             </div>
         </div>

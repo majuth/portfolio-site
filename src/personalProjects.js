@@ -31,7 +31,7 @@ class PersonalProjects extends React.Component {
                     <img src={basketballStatsSite} class="mx-auto d-block" style={{width: "100%"}}></img>
                     <br></br>
                     <div style={{backgroundColor: "#343a40", width: "156px", margin: "auto"}}>
-                    <a class="githubLink" href="https://github.com/majuthkira/basketball-stats-site"><div class="githubButton">View on Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style={{width:"21px", paddingLeft: "4px", paddingBottom: "3px"}}></img></div></a>
+                    <a class="githubLink" href="https://github.com/majuth/basketball-stats-site"><div class="githubButton">View on Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style={{width:"21px", paddingLeft: "4px", paddingBottom: "3px"}}></img></div></a>
                     </div>
                   </div>
                 </div>
@@ -55,7 +55,7 @@ class PersonalProjects extends React.Component {
                     <img src={calculatorApp} class="mx-auto d-block" style={{width: "100%"}}></img>
                     <br></br>
                     <div style={{backgroundColor: "#343a40", width: "156px", margin: "auto"}}>
-                    <a class="githubLink" href="https://github.com/majuthkira/Calculator-App"><div class="githubButton">View on Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style={{width:"21px", paddingLeft: "4px", paddingBottom: "3px"}}></img></div></a>
+                    <a class="githubLink" href="https://github.com/majuth/Calculator-App"><div class="githubButton">View on Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style={{width:"21px", paddingLeft: "4px", paddingBottom: "3px"}}></img></div></a>
                     </div>
                   </div>
                 </div>
@@ -79,7 +79,7 @@ class PersonalProjects extends React.Component {
                     <img src={imageRepository} class="mx-auto d-block" style={{width: "100%"}}></img>
                     <br></br>
                     <div style={{backgroundColor: "#343a40", width: "156px", margin: "auto"}}>
-                    <a class="githubLink" href="https://github.com/majuthkira/image-repository"><div class="githubButton">View on Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style={{width:"21px", paddingLeft: "4px", paddingBottom: "3px"}}></img></div></a>
+                    <a class="githubLink" href="https://github.com/majuth/image-repository"><div class="githubButton">View on Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style={{width:"21px", paddingLeft: "4px", paddingBottom: "3px"}}></img></div></a>
                     </div>
                   </div>
                 </div>
@@ -127,7 +127,7 @@ class PersonalProjects extends React.Component {
                     <img src={portfolioSite} class="mx-auto d-block" style={{width: "100%"}}></img>
                     <br></br>
                     <div style={{backgroundColor: "#343a40", width: "156px", margin: "auto"}}>
-                    <a class="githubLink" href="https://github.com/majuthkira/portfolio-site"><div class="githubButton">View on Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style={{width:"21px", paddingLeft: "4px", paddingBottom: "3px"}}></img></div></a>
+                    <a class="githubLink" href="https://github.com/majuth/portfolio-site"><div class="githubButton">View on Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style={{width:"21px", paddingLeft: "4px", paddingBottom: "3px"}}></img></div></a>
                     </div>
                   </div>
                 </div>

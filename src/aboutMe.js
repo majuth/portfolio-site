@@ -17,7 +17,7 @@ class AboutMe extends React.Component {
                   <img src={majuth4} class="mx-auto d-block" style={{width: "250px"}}></img>
                   <br></br>
                   <div class="mx-auto d-block" style={{maxWidth: "300px"}}>
-                    <p>Email: mkirakalaprathapan@torontomu.ca</p>
+                    <p>Email: majuthkira@gmail.com</p>
                     <p>Age: {this.calculate_age()}</p>
                     <p>From: Vaughan, Ontario</p>
                   </div>

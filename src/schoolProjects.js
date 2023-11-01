@@ -57,7 +57,7 @@ class SchoolProjects extends React.Component {
                     <img src={nikeMarketplace} class="mx-auto d-block" style={{width: "100%"}}></img>
                     <br></br>
                     <div style={{backgroundColor: "#343a40", width: "156px", margin: "auto"}}>
-                    <a class="githubLink" href="https://github.com/majuthkira/NikeMarketplaceHTML"><div class="githubButton">View on Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style={{width:"21px", paddingLeft: "4px", paddingBottom: "3px"}}></img></div></a>
+                    <a class="githubLink" href="https://github.com/majuth/NikeMarketplaceHTML"><div class="githubButton">View on Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style={{width:"21px", paddingLeft: "4px", paddingBottom: "3px"}}></img></div></a>
                     </div>
                   </div>
                 </div>
@@ -81,7 +81,7 @@ class SchoolProjects extends React.Component {
                     <img src={javascriptGamestore} class="mx-auto d-block" style={{width: "100%"}}></img>
                     <br></br>
                     <div style={{backgroundColor: "#343a40", width: "156px", margin: "auto"}}>
-                    <a class="githubLink" href="https://github.com/majuthkira/JavascriptGameStore"><div class="githubButton">View on Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style={{width:"21px", paddingLeft: "4px", paddingBottom: "3px"}}></img></div></a>
+                    <a class="githubLink" href="https://github.com/majuth/JavascriptGameStore"><div class="githubButton">View on Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style={{width:"21px", paddingLeft: "4px", paddingBottom: "3px"}}></img></div></a>
                     </div>
                   </div>
                 </div>
@@ -105,7 +105,7 @@ class SchoolProjects extends React.Component {
                     <img src={htmlCheckers} class="mx-auto d-block" style={{width: "100%"}}></img>
                     <br></br>
                     <div style={{backgroundColor: "#343a40", width: "156px", margin: "auto"}}>
-                    <a class="githubLink" href="https://github.com/majuthkira/HtmlCheckers"><div class="githubButton">View on Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style={{width:"21px", paddingLeft: "4px", paddingBottom: "3px"}}></img></div></a>
+                    <a class="githubLink" href="https://github.com/majuth/HtmlCheckers"><div class="githubButton">View on Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style={{width:"21px", paddingLeft: "4px", paddingBottom: "3px"}}></img></div></a>
                     </div>
                   </div>
                 </div>
@@ -129,7 +129,7 @@ class SchoolProjects extends React.Component {
                     <img src={mrPotatoHeadGame} class="mx-auto d-block" style={{width: "100%"}}></img>
                     <br></br>
                     <div style={{backgroundColor: "#343a40", width: "156px", margin: "auto"}}>
-                    <a class="githubLink" href="https://github.com/majuthkira/MrPotatoHeadHTML"><div class="githubButton">View on Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style={{width:"21px", paddingLeft: "4px", paddingBottom: "3px"}}></img></div></a>
+                    <a class="githubLink" href="https://github.com/majuth/MrPotatoHeadHTML"><div class="githubButton">View on Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style={{width:"21px", paddingLeft: "4px", paddingBottom: "3px"}}></img></div></a>
                     </div>
                   </div>
                 </div>
@@ -153,7 +153,7 @@ class SchoolProjects extends React.Component {
                     <img src={javaTextBasedGame} class="mx-auto d-block" style={{width: "100%"}}></img>
                     <br></br>
                     <div style={{backgroundColor: "#343a40", width: "156px", margin: "auto"}}>
-                    <a class="githubLink" href="https://github.com/majuthkira/TextBasedJavaGame"><div class="githubButton">View on Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style={{width:"21px", paddingLeft: "4px", paddingBottom: "3px"}}></img></div></a>
+                    <a class="githubLink" href="https://github.com/majuth/TextBasedJavaGame"><div class="githubButton">View on Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style={{width:"21px", paddingLeft: "4px", paddingBottom: "3px"}}></img></div></a>
                     </div>
                   </div>
                 </div>
@@ -177,7 +177,7 @@ class SchoolProjects extends React.Component {
                     <img src={radioStation} class="mx-auto d-block" style={{width: "100%"}}></img>
                     <br></br>
                     <div style={{backgroundColor: "#343a40", width: "156px", margin: "auto"}}>
-                    <a class="githubLink" href="https://github.com/majuthkira/Radio-Station"><div class="githubButton">View on Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style={{width:"21px", paddingLeft: "4px", paddingBottom: "3px"}}></img></div></a>
+                    <a class="githubLink" href="https://github.com/majuth/Radio-Station"><div class="githubButton">View on Github <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" style={{width:"21px", paddingLeft: "4px", paddingBottom: "3px"}}></img></div></a>
                     </div>
                   </div>
                 </div>
