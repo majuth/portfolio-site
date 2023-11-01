@@ -1,33 +1,24 @@
 {
   "files": {
-    "main.js": "/static/js/main.4eb8ea12.chunk.js",
-    "main.js.map": "/static/js/main.4eb8ea12.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f5105409.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f5105409.js.map",
-    "static/js/2.0e6668e8.chunk.js": "/static/js/2.0e6668e8.chunk.js",
-    "static/js/2.0e6668e8.chunk.js.map": "/static/js/2.0e6668e8.chunk.js.map",
+    "main.js": "/static/js/main.a76054fe.js",
+    "static/media/htmlCheckers.png": "/static/media/htmlCheckers.1ee6cafa8e5f8d7c448f.png",
+    "static/media/MrPotatoHeadgame.png": "/static/media/MrPotatoHeadgame.f61a4f223ae539ee4396.png",
+    "static/media/javascriptGamestore.png": "/static/media/javascriptGamestore.7cecfe2308f0348ed515.png",
+    "static/media/majuth4.png": "/static/media/majuth4.7686420995997d673b7b.png",
+    "static/media/imageRepository.png": "/static/media/imageRepository.26fe61b1ab127a43e8a1.png",
+    "static/media/majuth3.png": "/static/media/majuth3.34c560205d777de61c5d.png",
+    "static/media/radioStation.png": "/static/media/radioStation.64a4a85090070b51c24e.png",
+    "static/media/portfolioSite.png": "/static/media/portfolioSite.9be960fb73a665e867e1.png",
+    "static/media/nikeMarketplace.png": "/static/media/nikeMarketplace.780b256fd9d24af94262.png",
+    "static/media/basketballStatsSite.png": "/static/media/basketballStatsSite.8d6815ab27ced00a2002.png",
+    "static/media/calculatorApp.png": "/static/media/calculatorApp.41297252e4bd14774715.png",
+    "static/media/slackBot.png": "/static/media/slackBot.5aced4047e2df31f3b2d.png",
+    "static/media/ruprint.png": "/static/media/ruprint.b5088dce0d9e318131e5.png",
+    "static/media/textBasedJavagame.png": "/static/media/textBasedJavagame.5c0dbb50439a505e34ba.png",
     "index.html": "/index.html",
-    "precache-manifest.f35180b00f90e6efb01519039c5d0cfd.js": "/precache-manifest.f35180b00f90e6efb01519039c5d0cfd.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.0e6668e8.chunk.js.LICENSE.txt": "/static/js/2.0e6668e8.chunk.js.LICENSE.txt",
-    "static/media/MrPotatoHeadgame.png": "/static/media/MrPotatoHeadgame.3d74c862.png",
-    "static/media/basketballStatsSite.png": "/static/media/basketballStatsSite.70cdb6bc.png",
-    "static/media/calculatorApp.png": "/static/media/calculatorApp.ac7c94d1.png",
-    "static/media/htmlCheckers.png": "/static/media/htmlCheckers.b67c51e4.png",
-    "static/media/imageRepository.png": "/static/media/imageRepository.dd23c7f4.png",
-    "static/media/javascriptGamestore.png": "/static/media/javascriptGamestore.24f8189a.png",
-    "static/media/majuth3.png": "/static/media/majuth3.93cbf392.png",
-    "static/media/majuth4.png": "/static/media/majuth4.7fbdba79.png",
-    "static/media/nikeMarketplace.png": "/static/media/nikeMarketplace.5ea7ef0f.png",
-    "static/media/portfolioSite.png": "/static/media/portfolioSite.f92f768c.png",
-    "static/media/radioStation.png": "/static/media/radioStation.784c7abd.png",
-    "static/media/ruprint.png": "/static/media/ruprint.869c4f85.png",
-    "static/media/slackBot.png": "/static/media/slackBot.56ccbff6.png",
-    "static/media/textBasedJavagame.png": "/static/media/textBasedJavagame.d31a90e1.png"
+    "main.a76054fe.js.map": "/static/js/main.a76054fe.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5105409.js",
-    "static/js/2.0e6668e8.chunk.js",
-    "static/js/main.4eb8ea12.chunk.js"
+    "static/js/main.a76054fe.js"
   ]
 }
